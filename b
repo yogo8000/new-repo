@@ -1,1 +1,1 @@
-First line in file b, encountered a merge problem and fixed it locally.
+First line in file b, changed in local repo.
